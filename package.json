@@ -1,0 +1,23 @@
+{
+    "name": "prettier-config",
+    "version": "1.0.0",
+    "description": "My prettier configuration",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/harastaivan/prettier-config.git"
+    },
+    "keywords": [
+        "prettier",
+        "prettier-config"
+    ],
+    "author": "Ivan Harasta <ivan@harasta.dev>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/harastaivan/prettier-config/issues"
+    },
+    "homepage": "https://github.com/harastaivan/prettier-config#readme"
+}
