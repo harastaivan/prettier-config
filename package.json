@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/harastaivan/prettier-config/issues"
     },
-    "homepage": "https://github.com/harastaivan/prettier-config#readme"
+    "homepage": "https://github.com/harastaivan/prettier-config#readme",
+    "publishConfig": {
+        "access": "public"
+    }
 }
